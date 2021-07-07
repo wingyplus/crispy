@@ -7,7 +7,7 @@ Cross platforms clipboard command-line. This project provides 2 programs:
 
 ## Why I creating this tool?
 
-Currently, each clipboard uses this tools:
+Currently, each clipboard tool in each platforms uses:
 
 * `pbcopy` and `pbpaste` on macOS.
 * `clip` and `paste` on Windows.
